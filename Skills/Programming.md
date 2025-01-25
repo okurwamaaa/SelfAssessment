@@ -138,7 +138,7 @@
   - IPv4
   - IPv6
   - NAT
-  - URL h
+  - URL: 👂 heard
   - URN
   - URI
 - Process and tools
@@ -160,12 +160,12 @@
   - Debugger
   - Tracing
   - Garbage collection
-  - Refactoring h
+  - Refactoring: 👂 heard
   - Code review
   - Exception
   - Unittesting
-  - git h
-  - Github h
+  - git: 👂 heard
+  - Github: 👂 heard
   - Docker
   - Kubernetes
   - GCC
@@ -209,16 +209,16 @@
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers u
-  - Kernel h
+  - Drivers: 🖐️ used
+  - Kernel: 👂 heard
   - Ring
   - Virtual memory
   - File system
-  - Linux u
+  - Linux: 🖐️ used
   - Unix
   - BSD
   - MacOS
-  - Windows u
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
