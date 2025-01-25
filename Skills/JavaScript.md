@@ -4,14 +4,14 @@
   - `Object`
   - `Function`
   - `Boolean`
-  - `Number`
+  - `Number` 
   - `BigInt`
-  - `String`
+  - `String` 
   - `Symbol`
   - `Infinity`
   - `NaN`
   - `undefined`
-  - `null`
+  - `null` 
   - `this`
   - `instanceof`
   - `...spread`
@@ -43,7 +43,7 @@
   - Template literal
   - Strict mode
   - Hoisting
-  - `delete`
+  - `delete` 
   - `in`
   - `super`
   - `eval`
