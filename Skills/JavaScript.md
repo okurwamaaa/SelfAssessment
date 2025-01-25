@@ -4,14 +4,14 @@
   - `Object`
   - `Function`
   - `Boolean`
-  - `Number` 
+  - `Number` u
   - `BigInt`
-  - `String` 
+  - `String` u
   - `Symbol`
   - `Infinity`
   - `NaN`
   - `undefined`
-  - `null` 
+  - `null` u
   - `this`
   - `instanceof`
   - `...spread`
